@@ -1,14 +1,9 @@
 ## 👨‍🎓Utdanning
-- Videregående
-  - Studiespesialisering
-  - IKT-Servicefaget
-  - Påbygg
+- Fagbrev IKT-Servicefag
 
 ## 🔭 "Kunnskap"
-- HTML og CSS
 - JavaScript
 - Java
-- C#
 - Linux *Ubuntu (Desktop/Server), CentOS*
 - Windows Server
 
