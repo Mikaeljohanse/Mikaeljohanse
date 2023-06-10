@@ -1,5 +1,5 @@
 ## 👨‍🎓Utdanning
-- Fagbrev IKT-Servicefag
+- IKT-Servicemedarbeider
 
 ## 🔭 "Kunnskap"
 - JavaScript
