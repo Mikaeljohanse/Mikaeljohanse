@@ -9,5 +9,4 @@
 
 
 ## Kontakt info
-* ✉️  [Mikael@haacon.dev](mailto:Mikael@haacon.dev)
 * 🌐 [Linkedin](https://www.linkedin.com/in/mikael-h%C3%A5kon-johansen-8b1b55235/)
